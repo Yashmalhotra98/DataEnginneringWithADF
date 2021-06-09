@@ -21,11 +21,7 @@
 			},
 			"dependsOn": [
 				{
-					"type": "TumblingWindowTriggerDependencyReference",
-					"referenceTrigger": {
-						"referenceName": "tr_process_hospital_admissions_data",
-						"type": "TriggerReference"
-					}
+					"type": "SelfDependencyTumblingWindowTriggerReference"
 				}
 			]
 		}
