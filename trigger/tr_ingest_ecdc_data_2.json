@@ -2,7 +2,7 @@
 	"name": "tr_ingest_ecdc_data_2",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Stopped",
+		"runtimeState": "Started",
 		"pipeline": {
 			"pipelineReference": {
 				"referenceName": "pl_ingest_ecdc_data",
