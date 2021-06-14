@@ -1,7 +1,8 @@
 # DataEnginneringWithADF
 
-Project:- Data Engineering with Azure Data Factory - Weekend project on Covid-19
-During this weekend I've created a Data Engineering project using Azure Data Factory just for fun.
+Project:- Data Engineering with Azure Data Factory - Weekend project on Covid-19 <br>
+
+During the weekend I've created a Data Engineering project using Azure Data Factory just for fun.
 The project shows Population Data, Testing Done till the available Date, Hospital admissions, No. of active cases, Total No. of cases & Deaths. I will be improving upon this project by adding more countries to it with credible data sources that I can find for the above-given Parameters & will be adding! more parameter of "No. of People vaccinated till date".
 If you guys know such sources please comment below & do leave your reviews.
 It was fun creating a fully automated ETL Task as well as creating Data pipelines on azure and visualizing them on PowerBI.
