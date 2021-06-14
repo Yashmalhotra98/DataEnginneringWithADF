@@ -7,9 +7,11 @@ The project shows Population Data, Testing Done till the available Date, Hospita
 If you guys know such sources please comment below & do leave your reviews.
 It was fun creating a fully automated ETL Task as well as creating Data pipelines on azure and visualizing them on PowerBI.
 
-Github Link:- https://github.com/Yashmalhotra98/DataEnginneringWithADF
+**Github Link:- https://github.com/Yashmalhotra98/DataEnginneringWithADF
 
 PowerBI File Link(Might not be accessible for non-pro users):- https://app.powerbi.com/groups/me/reports/eaa0f9be-c1e5-464d-92f7-77dfa7012e08/ReportSectionc97c0d50b5e5eab04bb3
+
+Medium Blog Post Link:- https://blackhacker1998.medium.com/project-data-engineering-with-azure-data-factory-weekend-project-on-covid-19-89628514c9cc**
 
 # Why ADF?
 
